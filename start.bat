@@ -1,0 +1,1 @@
+node RemoveAllStealer.js
