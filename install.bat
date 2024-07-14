@@ -1,1 +1,1 @@
-npm install fs path child_process winreg
+npm install winreg fs path child_process 
