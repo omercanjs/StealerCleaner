@@ -6,7 +6,7 @@ This script performs various cleanup tasks on a Windows system to enhance its se
 
 1. **Clean Startup Folder**: Removes all files from the Windows startup folder to prevent unwanted programs from launching at startup.
 2. **Clean Registry**: Deletes all entries from the Windows registry's `Run` key to further ensure that no unwanted programs start automatically.
-3. **Check Discord Security**: Scans the local application data folder for the Discord application, checks the content of the `index.js` file in the `discord_desktop_core` directory, and ensures it matches the expected clean state. If the file is found to be modified, it restores the expected content.
+3. **Check Discord Security**: Scans the local application data folder for the Discord application, checks the content of the `index.js` file in the `discord_desktop_core` directory, and ensures it matches the expected clean state. If the file is found to be modified,  it restores the expected content.
 
 ## 📋 Prerequisites
 
